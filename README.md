@@ -1,4 +1,5 @@
 # I'm Angell
+## I am a functional sociopath and currently work in the Police IT department. 
 
 ### Languages and Tools:
 
