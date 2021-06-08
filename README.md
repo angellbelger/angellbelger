@@ -3,7 +3,6 @@
 ### Languages and Tools:
 <img align="left" alt="Vscode" width="26px" src="https://github.com/angellbelger/Metadata/blob/main/images/vscode.png?raw=true" />
 <img align="left" alt="HTML5andCSS" width="26px" src="https://github.com/angellbelger/Metadata/blob/main/images/CSS3-and-HTML5.png?raw=true" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/angellbelger/Metadata/blob/main/images/JavaScript.png?raw=true" />
 <img align="left" alt="Python" width="26px" src="https://github.com/angellbelger/Metadata/blob/main/images/python.png?raw=true" />
 <img align="left" alt="C" width="26px" src="https://github.com/angellbelger/Metadata/blob/main/images/c.png?raw=true" />
 <img align="left" alt="Java" width="26px" src="https://github.com/angellbelger/Metadata/blob/main/images/java.png?raw=true" />
