@@ -1,5 +1,4 @@
 # I'm Angell
-## Osternack CWB - Brazil. <img align="left" alt="Photo" width="26px" src="https://github.com/angellbelger/Hello-World/blob/main/images/brasil.png?raw=true" />
 ## I am currently work in the Police IT department. <img align="left" alt="Photo" width="26px" src="https://github.com/angellbelger/Hello-World/blob/main/images/federal.png?raw=true" />
 ### Languages and Tools:
 <img align="left" alt="Vscode" width="26px" src="https://github.com/angellbelger/Hello-World/blob/main/images/vscode.png?raw=true" />
