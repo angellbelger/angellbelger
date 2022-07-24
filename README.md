@@ -5,6 +5,7 @@
 <img align="left" alt="Vegas" width="26px" src="https://github.com/angellbelger/Hello-World/blob/main/images/git.png?raw=true" />
 <img align="left" alt="HTML5" width="26px" src="https://github.com/angellbelger/Hello-World/blob/main/images/HTML.png?raw=true" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/angellbelger/Hello-World/blob/main/images/CSS3.png?raw=true" />
+<img align="left" alt="JS" width="26px" src="https://github.com/angellbelger/Hello-World/blob/main/images/JavaScript.png?raw=true" />
 <img align="left" alt="Python" width="26px" src="https://github.com/angellbelger/Hello-World/blob/main/images/python.png?raw=true" />
 <img align="left" alt="C" width="26px" src="https://github.com/angellbelger/Hello-World/blob/main/images/c.png?raw=true" />
 <img align="left" alt="Java" width="26px" src="https://github.com/angellbelger/Hello-World/blob/main/images/java.png?raw=true" />
