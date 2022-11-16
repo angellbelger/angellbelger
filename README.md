@@ -8,7 +8,6 @@
 <img align="left" alt="JS" width="26px" src="https://github.com/angellbelger/Hello-World/blob/main/images/JavaScript.png?raw=true" />
 <img align="left" alt="Python" width="26px" src="https://github.com/angellbelger/Hello-World/blob/main/images/python.png?raw=true" />
 <img align="left" alt="Photo" width="26px" src="https://github.com/angellbelger/Hello-World/blob/main/images/Photoshop.png?raw=true" />
-<img align="left" alt="Vegas" width="26px" src="https://github.com/angellbelger/Hello-World/blob/main/images/vegas.png?raw=true" />
 
 <br />
 <br />
